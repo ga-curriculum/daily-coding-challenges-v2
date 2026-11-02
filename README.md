@@ -29,7 +29,7 @@ To successfully complete these coding challenges, learners should have foundatio
 Check out [this video](https://generalassembly.wistia.com/medias/5g7olb1qv7) which walks you through some of the below steps!
 
 1. **Getting Started**:
-    - **Fork** and **Clone** [this repository](https://git.generalassemb.ly/modular-curriculum-all-courses/daily-coding-challenges) to your local machine.
+    - **Fork** and **Clone** [this repository](https://github.com/ga-curriculum/daily-coding-challenges-v2) to your local machine.
 
 2. **Solving Challenges**:
     - Solve each challenge in the `challenges.js` file. This is the only file you need to modify.
